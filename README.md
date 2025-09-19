@@ -14,12 +14,12 @@ This repository contains solutions for **Module 2: Basic Python Concepts**.
 - Finally, it displays the results of all operations.  
 
 **Example Output:**  
-Enter first number:10
-Enter second number:5
-Addition:  15
-Subtraction:  5
-Multiplication:  50
-Division:  2.0
+-Enter first number:10
+-Enter second number:5
+-Addition:  15
+-Subtraction:  5
+-Multiplication:  50
+-Division:  2.0
 
 ### Task 2: Create a Personalized Greeting  
 - The program asks for the **user's first name and last name**.  
@@ -27,6 +27,6 @@ Division:  2.0
 - Prints a personalized greeting message.  
 
 **Example Output:**  
-Enter your first name: John
-Enter your last name: Doe
-Hello, John Doe! welcome to the python programme.
+-Enter your first name: John
+-Enter your last name: Doe
+-Hello, John Doe! welcome to the python programme.

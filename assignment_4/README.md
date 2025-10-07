@@ -17,8 +17,8 @@ Problem Statement:
 Line 1 : Hello
 Line 2 : Welcome to Python
 
-**Example Output (if file does not exist): **
-Error: the file sample.txt was not found.
+**Example Output (if file does not exist):**
+- Error: the file sample.txt was not found.
 
 ### Task 2: Write and Append Data to a File
 

@@ -8,6 +8,7 @@ This repository contains solutions for **Module 3: Control structures in python*
 - The program takes an integer input from the user.
 - It checks whether the number is even or odd using an if-else statement.
 - Displays the result accordingly.
+
 **Example Output:**  
 Enter a number: 8  
 Even
@@ -17,6 +18,6 @@ Even
 - It calculates the sum of all integers in this range.
 - Finally, it displays the total sum.
 
-  **Example Output:**
+ **Example Output:**
   The sum of number from 1 to 50 is: 1275
 

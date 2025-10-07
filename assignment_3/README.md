@@ -1,32 +1,35 @@
-# Assignment 1: Basic Python Concepts  
+# Assignment 3: Functions and modules in python 
 
-This repository contains solutions for **Module 2: Basic Python Concepts**.  
+This repository contains solutions for **Module 4: Functions and modules in python**.  
 
 ## Tasks  
 
-### Task 1: Perform Basic Mathematical Operations  
-- The program takes **two numbers** as input from the user.  
-- It performs:  
-  - Addition  
-  - Subtraction  
-  - Multiplication  
-  - Division  
-- Finally, it displays the results of all operations.  
+### Task 1: Calculate Factorial Using a Function
+
+Problem Statement:
+Write a Python program that:
+
+- Defines a function named factorial that takes a number as an argument and calculates its factorial using recursion.
+- Returns the calculated factorial.
+- Calls the function with a sample number and prints the output. 
 
 **Example Output:**  
--Enter first number:10
--Enter second number:5
--Addition:  15
--Subtraction:  5
--Multiplication:  50
--Division:  2.0
+- Factorial of 5 is: 120
 
-### Task 2: Create a Personalized Greeting  
-- The program asks for the **user's first name and last name**.  
-- It concatenates them to form the full name.  
-- Prints a personalized greeting message.  
+### Task 2: Using the Math Module for Calculations
 
+Problem Statement:
+Write a Python program that:
+
+- Asks the user for a number as input.
+- Uses the math module to calculate:
+       - The square root of the number
+       - The natural logarithm (log base e) of the number
+       - The sine of the number (in radians)
+- Displays all the calculated results.
+- 
 **Example Output:**  
--Enter your first name: John
--Enter your last name: Doe
--Hello, John Doe! welcome to the python programme.
+- Enter a number: 25
+- Square root: 5.0
+- Logarithm: 3.2188758248682006
+- Sine: -0.13235175009777303

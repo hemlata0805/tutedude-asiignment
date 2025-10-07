@@ -1,32 +1,38 @@
-# Assignment 1: Basic Python Concepts  
+# Assignment 4: Files, Exceptions, and Errors in Python  
 
-This repository contains solutions for **Module 2: Basic Python Concepts**.  
+This repository contains solutions for **Module 5: Files, Exceptions, and Errors in Python**.  
 
 ## Tasks  
 
-### Task 1: Perform Basic Mathematical Operations  
-- The program takes **two numbers** as input from the user.  
-- It performs:  
-  - Addition  
-  - Subtraction  
-  - Multiplication  
-  - Division  
-- Finally, it displays the results of all operations.  
+### Read a File and Handle Errors
+
+Problem Statement:
+- Write a Python program that:
+- Opens and reads a text file named sample.txt.
+- Prints its content line by line.
+- Handles errors gracefully if the file does not exist.  
+
+**Example Output(if file exists):**  
+-Reading file content:
+Line 1 : Hello
+Line 2 : Welcome to Python
+
+**Example Output (if file does not exist): **
+Error: the file sample.txt was not found.
+
+### Task 2: Write and Append Data to a File
+
+Problem Statement:
+- Write a Python program that:
+- Takes user input and writes it to a file named output.txt.
+- Appends additional data to the same file.
+- Reads and displays the final content of the file.  
 
 **Example Output:**  
--Enter first number:10
--Enter second number:5
--Addition:  15
--Subtraction:  5
--Multiplication:  50
--Division:  2.0
-
-### Task 2: Create a Personalized Greeting  
-- The program asks for the **user's first name and last name**.  
-- It concatenates them to form the full name.  
-- Prints a personalized greeting message.  
-
-**Example Output:**  
--Enter your first name: John
--Enter your last name: Doe
--Hello, John Doe! welcome to the python programme.
+- Enter text to add to the file: Hello
+- Data successfully written to output.txt
+- Enter additional text to append: Welcome to Python file handling
+- Data successfully appended.
+- Final content of output.txt
+             - Hello
+             - Welcome to Python file handling

@@ -36,3 +36,10 @@ Problem Statement:
 - Final content of output.txt
              - Hello
              - Welcome to Python file handling
+
+# Concepts Covered
+- File handling using open(), read(), write(), and append()
+- Exception handling with try and except blocks
+- Error type: FileNotFoundError
+- Reading files line by line and using loops
+- String manipulation using .strip() and newline characters (\n)
